@@ -7,7 +7,7 @@ st.write("""
    - Streamlit: [nlp10kfilingsrk.streamlit.app](https://nlp10kfilingsrk.streamlit.app/)
    - GitHub: [github.com/quantrkucb/NLP_10K_Filings](https://github.com/quantrkucb/NLP_10K_Filings)
 
-2.  **Order Book Visualizer**
+2.  **Order Book Visualizer** 
    - Streamlit: https://orderbookvisualiserrk.streamlit.app/ 
    - GitHub: https://github.com/quantrkucb/OrderBookVisualiser
 
