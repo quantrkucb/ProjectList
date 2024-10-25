@@ -27,7 +27,4 @@ st.write("""
    - GitHub: [github.com/quantrkucb/CalHacksStockly](https://github.com/quantrkucb/CalHacksStockly/) 
    - Website: [devpost.com/software/stockly](https://devpost.com/software/stockly)
 
-7. 
-
-8. 
 """)
