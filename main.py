@@ -19,9 +19,9 @@ st.write("""
 4. **Multi-Asset Return Prediction With Feature Importance**
    - GitHub (Paper + Slides): [Multi-Asset Return Prediction: GitHub](https://github.com/quantrkucb/MultiAssetReturnPrediction)
 
-5. **Portfolio Optimization: Modern Portfolio Theory Analysis**
-   - Streamlit: [nlp10kfilingsrk.streamlit.app](https://nlp10kfilingsrk.streamlit.app/)
-   - GitHub: [github.com/quantrkucb/NLP_10K_Filings](https://github.com/quantrkucb/NLP_10K_Filings)
+5. **Portfolio Optimization: Modern Portfolio Theory Applied**
+   - Streamlit: [Markowitz/Black Litterman Dashboard](https://portfoliooptimizerrk.streamlit.app//)
+   - GitHub: [github.com/quantrkucb/PortfolioOptimizer/](https://github.com/quantrkucb/PortfolioOptimizer/)
 
 6. **[Cal Hackathon] Robo-advisor for retail investors**
    - GitHub: [github.com/quantrkucb/CalHacksStockly](https://github.com/quantrkucb/CalHacksStockly/) 
