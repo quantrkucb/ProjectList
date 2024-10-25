@@ -9,7 +9,7 @@ st.write("""
 
 2. **Order Book Visualizer** 
    - Streamlit: [Order Book Visualiser Dashboard](https://orderbookvisualiserrk.streamlit.app/)
-   - GitHub: [NLP_10K_GitHub](https://github.com/quantrkucb/NLP_10K_Filings)
+   - GitHub: [NLP_10K_GitHub](https://github.com/quantrkucb/OrderBookVisualiser)
 
 3. **Tail-Risk hedging With Financial Derivatives (Bank of America)**
    - Streamlit: [Tail Risk Hedging Dashboard](https://tailriskhedging.streamlit.app/)
