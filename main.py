@@ -12,9 +12,9 @@ st.write("""
    - GitHub: https://github.com/quantrkucb/OrderBookVisualiser
 
 3. **Tail-Risk hedging With Financial Derivatives (Bank of America)**
-   - Streamlit: [nlp10kfilingsrk.streamlit.app](https://nlp10kfilingsrk.streamlit.app/)
-   - GitHub: [github.com/quantrkucb/NLP_10K_Filings](https://github.com/quantrkucb/NLP_10K_Filings)
-   - Paper: [Link to Paper]()
+   - Streamlit: [tailriskhedging.streamlit.app](https://tailriskhedging.streamlit.app/)
+   - GitHub: [github.com/quantrkucb/TailRiskHedgingWithDerivatives](https://github.com/quantrkucb/TailRiskHedgingWithDerivatives)
+   - Paper: [Link to Paper](https://drive.google.com/file/d/1EbZj0dv3ZX-RDpnkuW1UwHaebh8Btdbl/view?usp=sharing)
 
 4. **Multi-Asset Return Prediction With Feature Importance**
    - GitHub (Paper + Slides): [github.com/quantrkucb/MultiAssetReturnPrediction ](https://github.com/quantrkucb/MultiAssetReturnPrediction)
