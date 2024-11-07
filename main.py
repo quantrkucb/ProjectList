@@ -12,7 +12,7 @@ st.write("""
    - Streamlit: [Order Book Visualiser Dashboard](https://orderbookvisualiserrk.streamlit.app/)
    - GitHub: [Order Book Visualiser GitHub](https://github.com/quantrkucb/OrderBookVisualiser)
 
-3.  **Tail-Risk hedging With Financial Derivatives (Bank of America)**
+3. **Tail-Risk hedging With Financial Derivatives (Bank of America)**
    - Streamlit: [Tail Risk Hedging Dashboard](https://tailriskhedging.streamlit.app/)
    - GitHub: [Tail Risk Hedging GitHub](https://github.com/quantrkucb/TailRiskHedgingWithDerivatives)
    - Paper: [Link to Paper](https://drive.google.com/file/d/1EbZj0dv3ZX-RDpnkuW1UwHaebh8Btdbl/view?usp=sharing)
