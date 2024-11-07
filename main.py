@@ -2,8 +2,9 @@ import streamlit as st
 
 st.header("Rishi Kumra: Recent Projects")
 
-st.write("""
+# ML Applications
 st.subheader("ML Applications")
+st.write("""
 1. **Natural Language Processing on 10-K Filings To Forecast Returns**
    - Streamlit: [10K Filings Dashboard](https://nlp10kfilingsrk.streamlit.app/)
    - GitHub: [NLP_10K_GitHub](https://github.com/quantrkucb/NLP_10K_Filings)
@@ -14,8 +15,11 @@ st.subheader("ML Applications")
 3. **[Cal Hackathon] Robo-advisor for retail investors**
    - GitHub: [github.com/quantrkucb/CalHacksStockly](https://github.com/quantrkucb/CalHacksStockly/) 
    - Website: [devpost.com/software/stockly](https://devpost.com/software/stockly)
+""")
 
+# Portfolio Construction and Optimizations
 st.subheader("Portfolio Construction and Optimizations")
+st.write("""
 4. **Tail-Risk hedging With Financial Derivatives (Bank of America)**
    - Streamlit: [Tail Risk Hedging Dashboard](https://tailriskhedging.streamlit.app/)
    - GitHub: [Tail Risk Hedging GitHub](https://github.com/quantrkucb/TailRiskHedgingWithDerivatives)
@@ -24,10 +28,12 @@ st.subheader("Portfolio Construction and Optimizations")
 5. **Portfolio Optimization: Modern Portfolio Theory Applied**
    - Streamlit: [Markowitz/Black Litterman Dashboard](https://portfoliooptimizerrk.streamlit.app//)
    - GitHub: [github.com/quantrkucb/PortfolioOptimizer/](https://github.com/quantrkucb/PortfolioOptimizer/)
+""")
 
+# Trading & Risk Management
 st.subheader("Trading & Risk Management")
+st.write("""
 6. **Order Book Visualizer** 
    - Streamlit: [Order Book Visualiser Dashboard](https://orderbookvisualiserrk.streamlit.app/)
    - GitHub: [Order Book Visualiser GitHub](https://github.com/quantrkucb/OrderBookVisualiser)
-
 """)
